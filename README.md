@@ -91,6 +91,10 @@ Feel free to [suggest a link in an issue](https://github.com/adamquaile/useful/i
 
 ## Other collections / directories
 
+## General
+
+ - http://thechangelog.com
+
 ### JS
 
  - http://www.jsdb.io/
