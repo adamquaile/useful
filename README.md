@@ -34,6 +34,10 @@ Feel free to [suggest a link in an issue](https://github.com/adamquaile/useful/i
 
 ## Frontend tools / libs
 
+### JS MV* tools
+ - http://ripplejs.github.io/
+ - http://vuejs.org/
+
 ### JS Drawing / Graphing
 
  - http://ocanvas.org/
